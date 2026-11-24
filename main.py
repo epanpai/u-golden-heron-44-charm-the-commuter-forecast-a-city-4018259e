@@ -10,7 +10,7 @@ import os
 
 ENTRY = (
     "In Wobbleford, drizzle till nine, then bright sun \u2014 the 8:12 bus "
-    "is on time, the pigeons applaud, and your umbrella gets a lie-in."
+    "is on time, the pigeons applaud, and your umbrella finally gets a lie-in."
 )
 
 

@@ -9,7 +9,7 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-golden-heron-44-charm-
 characters — for a city that does not exist, to `/output/entry.txt`:
 
 > In Wobbleford, drizzle till nine, then bright sun — the 8:12 bus is on
-> time, the pigeons applaud, and your umbrella gets a lie-in.
+> time, the pigeons applaud, and your umbrella finally gets a lie-in.
 
 Wobbleford is invented. The line keeps the rhythm of a real broadcast
 forecast, names the city and its weather, gives the place one concrete
